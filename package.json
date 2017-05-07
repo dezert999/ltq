@@ -1,7 +1,7 @@
 {
-    "name": "io.cordova.hellocordova",
+    "name": "come.lifetimequartz",
     "version": "1.0.0",
-    "displayName": "HelloCordova",
+    "displayName": "UVG",
     "cordova": {
         "platforms": [
             "android",
